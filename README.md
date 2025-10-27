@@ -320,30 +320,6 @@ Clear memory database:
 rm -rf src/memory_db/
 ```
 
-## Contributing
 
-Contributions are welcome! Please:
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Submit a pull request
-
-## License
-
-MIT License - See LICENSE file for details
-
-## Acknowledgments
-
-- CrewAI: Multi-agent orchestration framework
-- Ollama: Local LLM inference
-- ChromaDB: Vector database
-- Gradio: Web interface framework
-
-## Contact
-
-For questions or support, please open an issue on GitHub.
-
----
 
 Built with CrewAI, Ollama, and Python
